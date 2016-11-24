@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 484,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 904
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 817,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1242
+                    }
+                }
+            }
+        ]
+    }
+]

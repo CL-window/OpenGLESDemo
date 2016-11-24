@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="WallpaperSettings" parent="@android:style/Theme.Holo">        
+        <item name="android:windowBackground">@android:drawable/screen_background_dark_transparent</item>        
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+    </style>
+    <style name="WallpaperSettingsLight" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowBackground">@android:drawable/screen_background_light_transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+    </style>
+</resources>

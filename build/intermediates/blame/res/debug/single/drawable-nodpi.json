@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\usb_android.png",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\drawable-nodpi\\usb_android.png"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\noisy_grass_public_domain.png",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\drawable-nodpi\\noisy_grass_public_domain.png"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\stone_wall_public_domain.png",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\drawable-nodpi\\stone_wall_public_domain.png"
+    }
+]

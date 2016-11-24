@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\layout\\toc_item.xml",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\layout\\toc_item.xml"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\layout\\table_of_contents.xml",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\layout\\table_of_contents.xml"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\layout\\lesson_six.xml",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\layout\\lesson_six.xml"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\layout\\lesson_seven.xml",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\layout\\lesson_seven.xml"
+    }
+]

@@ -1,0 +1,756 @@
+[
+    {
+        "outputFile": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2429,
+                        "endLine": 36,
+                        "endColumn": 19,
+                        "endOffset": 2563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 191,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2118,
+                        "endLine": 32,
+                        "endColumn": 19,
+                        "endOffset": 2423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 62,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 62,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 71,
+                    "endOffset": 624
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3190,
+                        "endColumn": 71,
+                        "endOffset": 3257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 629,
+                    "endColumn": 109,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3366,
+                        "endColumn": 109,
+                        "endOffset": 3471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 72,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3477,
+                        "endColumn": 72,
+                        "endOffset": 3545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endColumn": 99,
+                    "endOffset": 907
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3265,
+                        "endColumn": 99,
+                        "endOffset": 3360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 912,
+                    "endColumn": 73,
+                    "endOffset": 981
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1289,
+                        "endColumn": 73,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 986,
+                    "endColumn": 111,
+                    "endOffset": 1093
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 111,
+                        "endOffset": 1582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1098,
+                    "endColumn": 107,
+                    "endOffset": 1201
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1366,
+                        "endColumn": 107,
+                        "endOffset": 1469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1206,
+                    "endColumn": 68,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1112,
+                        "endColumn": 68,
+                        "endOffset": 1176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1275,
+                    "endColumn": 103,
+                    "endOffset": 1374
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1184,
+                        "endColumn": 103,
+                        "endOffset": 1283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1379,
+                    "endColumn": 66,
+                    "endOffset": 1441
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 66,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1446,
+                    "endColumn": 103,
+                    "endOffset": 1545
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 103,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1550,
+                    "endColumn": 71,
+                    "endOffset": 1617
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2569,
+                        "endColumn": 71,
+                        "endOffset": 2636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1622,
+                    "endColumn": 80,
+                    "endOffset": 1698
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2828,
+                        "endColumn": 80,
+                        "endOffset": 2904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1703,
+                    "endColumn": 80,
+                    "endOffset": 1779
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2746,
+                        "endColumn": 80,
+                        "endOffset": 2822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1784,
+                    "endColumn": 70,
+                    "endOffset": 1850
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2974,
+                        "endColumn": 70,
+                        "endOffset": 3040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1855,
+                    "endColumn": 74,
+                    "endOffset": 1925
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3114,
+                        "endColumn": 74,
+                        "endOffset": 3184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1930,
+                    "endColumn": 100,
+                    "endOffset": 2026
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2644,
+                        "endColumn": 100,
+                        "endOffset": 2740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2031,
+                    "endColumn": 62,
+                    "endOffset": 2089
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2910,
+                        "endColumn": 62,
+                        "endOffset": 2968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2094,
+                    "endColumn": 66,
+                    "endOffset": 2156
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3046,
+                        "endColumn": 66,
+                        "endOffset": 3108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2161,
+                    "endColumn": 74,
+                    "endOffset": 2231
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1588,
+                        "endColumn": 74,
+                        "endOffset": 1658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2236,
+                    "endColumn": 69,
+                    "endOffset": 2301
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1869,
+                        "endColumn": 69,
+                        "endOffset": 1934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2306,
+                    "endColumn": 87,
+                    "endOffset": 2389
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2029,
+                        "endColumn": 87,
+                        "endOffset": 2112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2394,
+                    "endColumn": 69,
+                    "endOffset": 2459
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1798,
+                        "endColumn": 69,
+                        "endOffset": 1863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2464,
+                    "endColumn": 87,
+                    "endOffset": 2547
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1940,
+                        "endColumn": 87,
+                        "endOffset": 2023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2552,
+                    "endColumn": 130,
+                    "endOffset": 2678
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1666,
+                        "endColumn": 130,
+                        "endOffset": 1792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2683,
+                    "endColumn": 80,
+                    "endOffset": 2759
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 672,
+                        "endColumn": 80,
+                        "endOffset": 748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2764,
+                    "endColumn": 105,
+                    "endOffset": 2865
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 756,
+                        "endColumn": 105,
+                        "endOffset": 857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2870,
+                    "endColumn": 72,
+                    "endOffset": 2938
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 863,
+                        "endColumn": 72,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2943,
+                    "endColumn": 93,
+                    "endOffset": 3032
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 93,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3037,
+                    "endColumn": 78,
+                    "endOffset": 3111
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1032,
+                        "endColumn": 78,
+                        "endOffset": 1106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3116,
+                    "endColumn": 71,
+                    "endOffset": 3183
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 71,
+                        "endOffset": 558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3188,
+                    "endColumn": 104,
+                    "endOffset": 3288
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 566,
+                        "endColumn": 104,
+                        "endOffset": 666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3293,
+                    "endColumn": 49,
+                    "endOffset": 3338
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 49,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3343,
+                    "endColumn": 138,
+                    "endOffset": 3477
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 138,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3482,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 3885
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3890,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 4305
+                },
+                "from": {
+                    "file": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1216
+                    }
+                }
+            }
+        ]
+    }
+]

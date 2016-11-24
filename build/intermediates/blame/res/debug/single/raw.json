@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\raw\\point_vertex_shader.glsl",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\raw\\point_vertex_shader.glsl"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\raw\\per_pixel_fragment_shader.glsl",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\raw\\per_pixel_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\raw\\color_vertex_shader.glsl",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\raw\\color_vertex_shader.glsl"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\raw\\point_fragment_shader.glsl",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\raw\\point_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\raw\\lesson_seven_vertex_shader.glsl",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\raw\\lesson_seven_vertex_shader.glsl"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\raw\\per_pixel_vertex_shader_tex_and_light.glsl",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\raw\\per_pixel_vertex_shader_tex_and_light.glsl"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\raw\\color_fragment_shader.glsl",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\raw\\color_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\raw\\per_pixel_fragment_shader_no_tex.glsl",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\raw\\per_pixel_fragment_shader_no_tex.glsl"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\raw\\lesson_seven_fragment_shader.glsl",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\raw\\lesson_seven_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\raw\\per_pixel_fragment_shader_tex_and_light.glsl",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\raw\\per_pixel_fragment_shader_tex_and_light.glsl"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\raw\\per_pixel_vertex_shader_no_tex.glsl",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\raw\\per_pixel_vertex_shader_no_tex.glsl"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\raw\\per_pixel_vertex_shader.glsl",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\raw\\per_pixel_vertex_shader.glsl"
+    }
+]

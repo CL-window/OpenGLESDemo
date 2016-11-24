@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\xml\\switching_wallpaper.xml",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\xml\\switching_wallpaper.xml"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\xml\\wallpaper.xml",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\xml\\wallpaper.xml"
+    },
+    {
+        "merged": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\slack\\android\\camera\\CameraFilter\\OpenGLES\\src\\main\\res\\xml\\preferences.xml"
+    }
+]
